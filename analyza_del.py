@@ -4,7 +4,7 @@ from termcolor import colored
 from tabulate import tabulate
 pd.set_option("display.max_columns", None, "display.max_rows", None)
 
-tabulka = pd.read_csv("C:/Users/Richard Změlík/Desktop/CSV_DATABASE/tabulka_dat.csv").drop(columns=["Unnamed: 0"])
+tabulka = pd.read_csv("path/tabulka_dat.csv").drop(columns=["Unnamed: 0"]) #path = path to your local disk
 
 # vyhledávní podle jména autora
 zadej = input("Zadej jméno autora: ")
@@ -64,7 +64,7 @@ if vstup7 == "A":
 
     print(tabulate(pd.Series(slov).to_frame(), tablefmt="psql"))
 
-    pd.Series(slov).to_frame().to_excel("C:/Users/Richard Změlík/Desktop/tabulka roku a del.xlsx")
+    pd.Series(slov).to_frame().to_excel("C:path/tabulka roku a del.xlsx") #path = path to your local disk
 else:
     pass
 
