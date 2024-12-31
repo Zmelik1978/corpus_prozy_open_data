@@ -1,0 +1,51 @@
+﻿TAGSET PROMLUVOVÝCH SEGMENTŮ
+----------------------------
+
+P		přímá řeč (začátek)
+R		přímá řeč (konec)
+CM_X		přímá řeč jako vnitřní monolog (začátek)
+CM_Y		přímá řeč jako vnitřní monolog (konec)
+VP_X		vypravěč personální (začátek)
+VP_Y		vypravěč personální konec
+VO_X		vypravěč-postava (začátek), tzv. homodiegetický
+VO_Y		vypravěč-postava (konec), tzv. heterodiegetický
+VN_X		vypravěč nadosobní (začátek), tzv. heterodiegetický
+VN_Y		vypravěč nadosobní (konec), tzv. heterodiegetický
+R_X		rétorický vypravěč (začátek)
+R_Y		rétorický vypravěč (konec)
+V1_X		vložené vyprávění 1. stupně (začátek), tzv. intradiegetický
+V1_Y		vložené vyprávění 1. stupně (konec), tzv. intradiegetický
+P_1		začátek přímé řeči ve vloženém vyprávění 1. stupně
+R_1		konec přímé řeči ve vloženém vyprávění 1. stupně
+V2_X		vložené vyprávění 2. stupně (začátek), tzv. intradiegetický
+V2_Y		vložené vyprávění 2. stupně (konec), tzv. intradiegetický
+P_2		začátek přímé řeči ve vloženém vyprávění 2. stupně
+R_2		konec přímé řeči ve vloženém vyprávění 2. stupně
+D_X		vložený text - dopis, deník, ... (začátek)
+D_Y		vložený text - dopis, deník, ... (konec)
+DP		přímá řeč ve vloženém textu (začátek)
+DR		přímá řeč ve vloženém textu (konec)
+SA		přímá řeč Švejka (začátek)
+SX		přímá řeč Švejka (konec)
+NM_X 		nerealizovaná přímá řeč (začátek)
+NM_y 		nerealizovaná přímá řeč (konec)
+
+TAGSET LOKACÍ
+-------------
+
+PRAG_X		dějiště Praha (začátek)
+PRAG_Y		dějiště Praha (konec)
+SMICH_X		dějiště Smíchov (začátek)
+SMICH_Y		dějiště Smíchov (konec)
+KL_X		dějiště Kamenné lomy (začátek)
+KL_Y		dějiště Kamenné lomy (konec)
+SPAIN_X		dějiště Španělsko (začátek)
+SPAIN_Y		dějiště Španělsko (konec)
+KRKO_X		dějiště Krkonoše (začátek)
+KRKO_Y		dějiště Krkonoše (konec)
+WIEN_X		dějiště Vídeň (začátek)
+WIEN_Y		dějiště Vídeň (konec)
+SUMAV_X		dějiště Šumava (začátek)
+SUMAV_Y		dějiště Šumava (konec)
+PRA-PL_X	dějiště mezi Prahou a Plzní (začátek)
+PRA-PL_Y	dějiště mezi Prahou a Plzní (konec)
